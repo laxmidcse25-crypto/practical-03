@@ -1,0 +1,44 @@
+<html>
+<head>
+    <title>Practical-03</title>
+</head>
+
+<body bgcolor="pink">
+
+<h2 align="center">My Introduction</h2>
+
+<marquee bgcolor="orange">Welcome to My Webpage</marquee>
+<br></br>
+
+<img src="C:\Users\HP\OneDrive\Documents\PHOTO.jpeg" width="px" height="120px">
+<p>
+<b>Name:</b>Laxmi Sanjeev Dube<br>
+<b>USN:</b> CS25028<br>
+<b>Course:</b> Btech in Computer Science Engineering<br>
+<b>College:</b> S.B. Jain Institute of Technology, Nagpur <br>
+</p>
+
+<h3>My Skills</h3>
+<ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>C Programming</li>
+</ol>
+
+<h3>My Hobbies</h3>
+<ul>
+    <li>Listening Music</li>
+    <li>Reading</li>
+    <li>Cooking</li>
+</ul>
+
+<h3>My Details</h3>
+<dl>
+   <dt><b>Goal:</b></dt>
+   <dd><p>To achieve personal empowerment and economic independence through education.Then,I want to earn so much money that I don't have to look at the price tag before spending.</p></dd>
+</dl>
+
+<h3>Links:<a href="https://github.com/">Github Account</a></h3>
+<h3 align="center">THANKYOU💖!</h3>
+</body>
+</html>
